@@ -22,3 +22,5 @@ git clone <your-repo-url>
 cd data-augmentation-llms
 ```
 
+2. Install dependencies
+pip install transformers 
